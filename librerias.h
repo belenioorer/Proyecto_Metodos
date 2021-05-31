@@ -3,6 +3,7 @@
 #include <windows.h>
 #include <locale.h>
 #include <math.h>
+#include "Lagrange.c"
 #include "Spline.c"
 #include "Portada.c"
 #include "Menu.c"
